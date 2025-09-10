@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nemesis228ux" alt="nemesis228ux" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js, Flutter, React.js, Flask**
+- 🌱 I’m currently learning **Express.js, Flutter, React.js, Flask, FastApi**
 
 - 💬 Ask me about **Flask, Express.js**
 
