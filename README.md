@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Express.js, Flutter, React.js, Flask, FastApi**
 
-- 💬 Ask me about **Flask, Express.js**
+- 💬 Ask me about **FastApi, React.js**
 
 - 📫 How to reach me **pavelnemesis228@gmail.com**
 
