@@ -28,6 +28,7 @@
 
 <p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nemesis228ux&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 <br/>
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nemesis228ux&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<br/>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis228ux&" alt="nemesis228ux" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nemesis228ux&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nemesis228ux&" alt="nemesis228ux" />
+</p>
