@@ -31,16 +31,16 @@
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nemesis228ux&show_icons=true&locale=en&layout=compact" width="100%" alt="Top Languages" />
-    </td>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nemesis228ux&show_icons=true&locale=en&layout=compact" width="100%" alt="Top Languages" />
+</td>
     <td width="50%" valign="top">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quote" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=nemesis228ux&show_icons=true&locale=en" width="100%" alt="GitHub Stats" />
-    </td>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nemesis228ux&show_icons=true&locale=en" width="100%" alt="GitHub Stats" />
+</td>
     <td width="50%" valign="top">
       <img src="https://streak-stats.demolab.com?user=nemesis228ux" width="100%" alt="GitHub Streak" />
     </td>
