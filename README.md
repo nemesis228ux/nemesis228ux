@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemesis228ux&label=Profile%20views&color=0e75b6&style=flat" alt="nemesis228ux" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nemesis228ux" alt="nemesis228ux" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, React.js, NestJS, FastApi, CodeIgniter**
 
 - 💬 Ask me about **FastApi, Flutter**
