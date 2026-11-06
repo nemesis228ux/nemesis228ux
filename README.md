@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nemesis228ux&label=Profile%20views&color=0e75b6&style=flat" alt="nemesis228ux" /> </p>
 
-- 🌱 I’m currently learning **Flutter, React.js, NestJS, FastApi, CodeIgniter**
+- 🌱 I’m currently learning **Spring boot, FastApi, CodeIgniter, Flutter, React.js, React Native**
 
 - 💬 Ask me about **FastApi, Flutter**
 
@@ -34,7 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
 </a> <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-</a> </p>
+</a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+</a></p>
 
 <table border="0">
   <tr>
