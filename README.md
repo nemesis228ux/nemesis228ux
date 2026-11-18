@@ -14,14 +14,14 @@
 
 - ⚡ Passionate about **AI too🤓** 
 
-<h3 align="left"> Certifications</h3>
+<h1 align="left"> Certifications</h1>
 <p align="left">
   <a href="https://certificates.cs50.io/a4363f96-acca-4572-abc1-9528997696e5.png?size=A4" target="_blank">
     <img src="https://img.shields.io/badge/CS50P-Harvard%20University-blue?style=for-the-badge&logo=harvard&logoColor=white" alt="CS50P Certificate" />
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/barry_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barry_ali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aliscobarry228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali barry" height="30" width="40" /></a>
@@ -29,9 +29,9 @@
 <a href="https://wa.me/+22891302358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h1 align="left">Languages and Tools</h1>
 
-<h4 align="left">- Programming Languages</h4>
+<h2 align="left">- Programming Languages</h2>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="42" height="42"/>
@@ -56,7 +56,7 @@
   </a>
 </p>
 
-<h4 align="left">- Backend Frameworks & Runtimes</h4>
+<h2 align="left">- Backend Frameworks & Runtimes</h2>
 <p align="left">
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<h4 align="left">- Frontend & Mobile</h4>
+<h2 align="left">- Frontend & Mobile</h2>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -97,7 +97,7 @@
   </a>
 </p>
 
-<h4 align="left">- Databases & Caching</h4>
+<h2 align="left">- Databases & Caching</h2>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="42" height="42"/>
@@ -116,7 +116,7 @@
   </a>
 </p>
 
-<h4 align="left">- Tools & DevOps</h4>
+<h2 align="left">- Tools & DevOps</h2>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="42" height="42"/>
